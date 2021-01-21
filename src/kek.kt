@@ -8,5 +8,5 @@ fun main () {
     print ("Время прошедшее со старта:" )
     var T = readLine().toString()!!.toDouble()
     var Sfinal = Sbegin+V1*T+V2*T
-    print (Sfinal)
+    print ("Итоговый рассчет: $Sfinal" )
 }
