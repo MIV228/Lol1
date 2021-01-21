@@ -1,8 +1,10 @@
-fun main ()
-{
-    var a = 100
-    var b = 228
-    println (a)
-    println (b)
-    a = 25
+fun main () {
+    var a = 6
+
+    while (a <= -555) {
+        a = a * 45
+        print(a)
+    }
+
+
 }
